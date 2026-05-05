@@ -64,7 +64,7 @@ The Adidas Sales Analysis Dashboard provides a centralized view of business heal
 - **Real-time Integration:** Connecting the dashboard to live sales data feeds.
 
 ## 👤 Author & Contact
-**Your Name**
+**Nikhil Soni**
 Data Analyst
 
 - GitHub: [https://github.com/iamnikhilsoni]
