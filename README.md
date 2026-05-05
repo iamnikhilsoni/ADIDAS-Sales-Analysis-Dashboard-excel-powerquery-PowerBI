@@ -39,7 +39,7 @@ The analysis is based on comprehensive sales records including:
 - **Sales Scale:** Total sales reached 360.33M with an operating profit of 129.81M.
 
 ## 📸 Dashboard Preview
-![Adidas Sales Dashboard Overview](Main%20Page%20Dashboard.jpg)
+![This is a image](https://github.com/iamnikhilsoni/ADIDAS-Sales-Analysis-Dashboard-excel-powerquery-PowerBI/blob/3217e598294b8dc015e38cf9678b0e65e85ad51a/Main%20Page%20Dashboard.png)
 
 ## 🖥️ Dashboard / Model / Output
 The dashboard features:
